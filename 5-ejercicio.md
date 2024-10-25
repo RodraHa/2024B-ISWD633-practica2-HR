@@ -48,7 +48,7 @@ Ingresar a: http://localhost:8080/
 recordar que a es el puerto que usó para el mapeo con wordpress
 
 ### ¿Qué ha sucedido, qué puede observar?
-Al intentar volver a acceder se visualiza una página en blanca, lo cual puede deberse a un problema de conexión entre Wordpress y la base de datos.
+Al intentar volver a acceder se visualiza una página en blanco, lo cual puede deberse a un problema de conexión entre Wordpress y la base de datos.
 
 
 
