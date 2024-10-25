@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+---
+Entre los aprendizajes obtenidos, destaca la habilidad de interactuar con los contenedores de Docker mediante la línea de comandos (CLI). Esto permite una gestión más efectiva y la posibilidad de realizar modificaciones de manera rápida. Además, aprender a organizar los contenedores en diferentes redes mejora tanto la seguridad como la comunicación entre ellos. Así también, ajustar la configuración de cada contenedor a través de variables de entorno proporciona flexibilidad en su uso. Estos conocimientos fortalecen mi capacidad para manejar entornos más complejos de manera eficiente.
